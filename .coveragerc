@@ -1,0 +1,5 @@
+[run]
+include = done_with_pride/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
